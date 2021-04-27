@@ -52,6 +52,8 @@ INSTALLED_APPS = [
     "task_profile",
     "location",
     "tasker_business",
+    "chat_user_profile",
+    "chat",
 ]
 LOCAL_APPS = [
     "home",
